@@ -358,7 +358,7 @@ footer>a{
   padding: 5px 10px;
 }
 
-@media (max-width: 675px) {
+@media (max-width: 430px) {
   .music-container {
     background-image: url(img/mp3.png);
        position: relative;
